@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Music App</title>
+    <link rel="stylesheet" href="main.css">
+</head>
+<body>
+    <div class="container">
+        <div class="left-column">
+            <div><img src="music/logos/music1.jpg"  width="100%"/></div>
+            <div><button class="button"  id="button1" ><b>KANNADA SONGS</b></button></div>
+            <div><button class="button1" id="button2" ><b>ENGLISH SONGS</b></button></div>
+            <div><button class="button2" id="button3" ><b>HINDI SONGS</b></button></div>
+        </div>
+        <div class="right-column">
+            <div>
+                <marquee  class="music"  behavior="scroll">
+                MUSIC IS MOONLIGHT IN THE GLOOMY NIGHT OF SKY ,FOOD OF LOVE ...PLAY ON....
+                </marquee>
+            </div>
+            <div class="container1"> 
+                <main>
+                    <section id="song-list">
+                      <div class="song-container" id="song-container"></div>
+                    </section>
+                  </main>
+                  <div class="footer">
+                    <footer>
+                        <progress id="song-progress" value="0" max="100"></progress>
+                        <div>
+                        <button  id="backward-button"style="background-color: transparent;"><img src="music/logos/previous.png" height="20px" width="20px" /></button>
+                        <button onclick="toggleSong()" style="background-color: transparent;"><img id="playPauseImage" src="music/logos/play-button.png" alt="Play" height="20px" width="20px" /></button>
+                        <button  id="forward-button" style="background-color: transparent;"><img src="music/logos/next.png" height="20px" width="20px" /></button>
+                        </div>
+                    </footer>
+                  </div>
+                  <script src="app.js"></script>
+            </div>
+      </div>
+</body>
+</html>
+
+
+
