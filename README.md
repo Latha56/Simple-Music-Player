@@ -1,0 +1,3 @@
+# Simple Music Player 
+When talking about music players, it's like diving into a world where melodies and rhythms come to life. Music players are like our modern-day companions, allowing us to carry our favorite tunes with us wherever we go. They have evolved from the days of CDs and Walkmans to the digital wonders we have today. Music players not only provide entertainment but also create a personal soundtrack to our lives, shaping our moods and memories. They are the vessels that transport us to different emotional landscapes with just a click.
+In this simple project i am using the powerful web Technologies i.e HTML , CSS , JAVASCRIPT
