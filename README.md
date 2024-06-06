@@ -32,8 +32,12 @@ Simple Music Player is a web-based application designed to provide a seamless mu
 
 #### Menu / Menu details page
 <p align="left" width="100%">
-<img width="45%" src="screenshot/menupage.png" alt="menu">
-<img width="45%" src="screenshot/productdetail.png" alt="details">
+<img width="45%" src="screenshot/home(kannada_song_page).png" alt="home">
+<img width="45%" src="screenshot/english_song_list.png" alt="english">
+</p>
+<p align="left" width="100%">
+<img width="45%" src="screenshot/hindi_song_list.png" alt="hindi">
+<img width="45%" src="screenshot/progress_bar.png" alt="progress">
 </p>
 
 ## Usage
