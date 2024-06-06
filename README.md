@@ -37,7 +37,7 @@ Simple Music Player is a web-based application designed to provide a seamless mu
 
 ## Contact
 For questions or feedback, please reach out to:
-- **Email**: your.lathahn2002@gmail.com
+- **Email**: lathahn2002@gmail.com
 - **GitHub**: [yourusername](https://github.com/Latha56)
 
 ---
