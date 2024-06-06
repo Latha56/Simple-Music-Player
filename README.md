@@ -1,4 +1,4 @@
-# Simple Music Player
+# <img src="https://static.thenounproject.com/png/196065-200.png" alt="Spectacles Logo" width="100" style="vertical-align: middle;"/> Simple Music Player
 
 ## Overview
 Simple Music Player is a web-based application designed to provide a seamless music listening experience. Utilizing the power of HTML, CSS, and JavaScript, this project offers an intuitive interface to play, pause, and navigate through your favorite tracks.
