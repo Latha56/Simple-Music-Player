@@ -28,6 +28,13 @@ Simple Music Player is a web-based application designed to provide a seamless mu
     ```bash
     open index.html
     ```
+## Screenshots
+
+#### Menu / Menu details page
+<p align="left" width="100%">
+<img width="45%" src="screenshot/menupage.png" alt="menu">
+<img width="45%" src="screenshot/productdetail.png" alt="details">
+</p>
 
 ## Usage
 1. Open the music player in your web browser.
